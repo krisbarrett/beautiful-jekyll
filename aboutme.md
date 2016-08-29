@@ -1,16 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am an enthusiastic engineer interested in web development, mobile app development, and embedded systems. I am passionate about creating products and services that enrich people's lives. I studied electrical engineering at Cal Poly San Luis Obispo where I received my bachelors degree in 2009. For the first four years of my career, I worked in the communications equipment industry developing software, testing systems, and sustaining hardware projects. I started an online business called Crispytronics selling breakout boards for electronics projects.  I currently work at The Control Group writing software in Go.

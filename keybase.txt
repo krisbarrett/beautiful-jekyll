@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/krisb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kbarrett.com
+  * I am krisb (https://keybase.io/krisb) on keybase.
+  * I have a public key with fingerprint C297 F054 003E 5619 1A70  2218 C605 E2D1 B0DF BADB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015943cd7eeff10cc4dc5bd5443ed6fe7649cd1b43faa8f35ad88230b331f2e6060a",
+            "fingerprint": "c297f054003e56191a702218c605e2d1b0dfbadb",
+            "host": "keybase.io",
+            "key_id": "c605e2d1b0dfbadb",
+            "kid": "01015943cd7eeff10cc4dc5bd5443ed6fe7649cd1b43faa8f35ad88230b331f2e6060a",
+            "uid": "6ec9578f9911b753f92244c8d2f6ae00",
+            "username": "krisb"
+        },
+        "revoke": {
+            "sig_ids": [
+                "994106db8a0d4e18c685b0c691f80be31e305307cd49676a808b34025f3757630f"
+            ]
+        },
+        "service": {
+            "hostname": "kbarrett.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472596020,
+    "expire_in": 157680000,
+    "prev": "db9adc6109f227b184908ab5261db9fe264d37c6aef2d83fd8470a1468651c8f",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMJrAnicrZJLbBVVGMdvsTx6g0QrRKisRhETSj2vOXPOJWgwDYkxRLqSCs31PG/H
+tjPXmem9IsGgC0sgSjTBLoRCk2p4BOIjWB6b8gjPjRIMIKE8YjBdIGpkoSTWM43s
+XDqbyZzz/37f73xzTj36SKHYMHe4Y+jWV/XnGi4c/7W/8NrpWWSDJ2O93itt8HrM
+1Mv0apNm5Z5QeyUPQAB9TrDSgTHWQqAU0cqX2icEG02tCSjhSkNJsBWCWewLzRjC
+QGIMLTIUUCC8Vs+GUcUk1SSMModViAcW+AQAbHwKORQBQAgyRYFvkKMBbaXQ0hV2
+x2le4eSkSE1bGLs191Ge0vuP/P/s3T+Fo0ZxP2CWcwhl4GPLESJEMY0sFQaAPJia
+JBJ9JndNwlR6G1u9xNTiHpMPNQ0rzjj1Sms9zgkEVEsmgCYmPzPzJVCUQ8uANBga
+DHwMAqUJpwEVDDCJCUC+xYEfUAys1+XYrl0tVFPwfEQPW0uRJCbL2lTc56SqSZzF
+Ku51O91ZVk1LuVW2vppH60aW/4WUZRhp94NcRc0kaRhHXgm6pMrCnApJgHxOAQKt
+nnm7GiamHOYJZ8OAe/I+puaQWnKhFYWAW4QCCRnhgAnpIwrdljWIEo0D5UZmkWbY
+akYCICChjPpQMevlx3orir2S7zRFxSHd4CKR9SfG23hibF1joaFYmDF9Wn5xC8Wm
+xx5e54M3Zk5Gr+++v2/4YOMIX/zkULztzFbxzMXa4NlZq0auzZ8xNPbZnYnR2fXp
+wV/Lnu2K6f3B0e5dS3r3Hmr9obmy8MHEJz//PvHt5bvH0E8vkZmHVjzxQse2H/98
+eeyDTXOO3Vl9ePTu8mZzbWRRfc72lnD201fYuRsnyeYHW5ad7SwPbD5SWLx2029/
+nI7+Hl+5493z+/mOySP3PuwaWPD11dvd73+z8PHm2juHO+K9w983Pf9i+3vntqz7
+9Lt5A519bzbvmr9z5z658jz+uP3AnmTJF7euf36z8Mu0nsrgqktL14zXe9eMT77R
+2PLq7isLcHF/sW1we0yW648OPLV66b3Ore0rWpouHn1l0YVs8kt79Pg/JrJa7w==
+=PvOQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krisb
+
+==================================================================
+

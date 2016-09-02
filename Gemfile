@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
 
+gem 'jekyll'
 gem 'execjs'
 gem 'therubyracer'
 gem 'github-pages'
 gem 'jekyll-paginate'
+gem 'jekyll-import'
+gem 'sequel'
+gem 'unidecode'
+gem 'mysql2'

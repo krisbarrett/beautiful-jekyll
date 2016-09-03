@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Un-Clutter Your Desk with Fluorescent Lighting"
-date:   2008-08-25 12:00:00
+date:   2008-04-04 12:00:00
 categories: ['blog']
 ---
 

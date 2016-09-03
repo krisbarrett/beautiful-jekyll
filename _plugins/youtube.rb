@@ -26,9 +26,9 @@ module Jekyll
     end
 
     def render(context)
-      source = "<div class=\"video\">"
+      source = "<div class=\"embed-responsive embed-responsive-16by9\">"
       source += "<figure>"
-      source += "<iframe width=\"640\" height=\"480\" src=\"//www.youtube.com/embed/#{@url}\" frameborder=\"0\" allowfullscreen></iframe>"
+      source += "<iframe class=\"embed-responsive-item\" src=\"//www.youtube.com/embed/#{@url}\" frameborder=\"0\" allowfullscreen></iframe>"
       source += "</figure>"
       source += "</div>"
       source
